@@ -1,13 +1,15 @@
 ## Hi, I'm Prashanth 👋
 
-<span style='font-size: 18px;'>I'm an experienced <span style='text-decoration: underline;'>full stack developer</span> with a passion for technology</span>
+---
 
-### _Everything is fine_. **REALLY**.
+### I'm an experienced full stack developer with a passion for technology
+
+#### _Everything is fine_. **REALLY**.
 
 ![this is fine](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
 
-Connect with me on all the platforms:
+_Connect with me on all the platforms_:
 
 <a href="https://prashanthr.me"><img src="./assets/icons/globe.svg" /></a> &nbsp; 
 <a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code.svg" /></a> &nbsp; <a href="https://github.com/prashanthr"><img src="./assets/icons/github.svg" /></a> &nbsp; <a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin.svg" /></a>&nbsp; <a href="https://dev.to/prashanthr"><img src="./assets/icons/archive.svg" /></a>
@@ -26,6 +28,7 @@ Connect with me on all the platforms:
   </a>
 </details>
 
+---
 
 <!--
 **prashanthr/prashanthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
