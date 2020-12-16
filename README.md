@@ -1,18 +1,20 @@
-# Hi, I'm Prashanth 👋
+## Hi, I'm Prashanth 👋
 
 ---
 
-## I'm an experienced full stack developer with a passion for technology
+<div style='color:blue;'>I'm an experienced full stack developer with a passion for technology</div>
 
-### _Everything is fine_. **REALLY**.
+## _Everything is fine_. **REALLY**.
 
 ![this is fine](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
 
 _Connect with me on all the platforms_:
 
-<a href="https://prashanthr.me"><img src="./assets/icons/globe.svg" /></a> &nbsp; 
-<a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code.svg" /></a> &nbsp; <a href="https://github.com/prashanthr"><img src="./assets/icons/github.svg" /></a> &nbsp; <a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin.svg" /></a>&nbsp; <a href="https://dev.to/prashanthr"><img src="./assets/icons/archive.svg" /></a>
+<div>
+  <a href="https://prashanthr.me"><img src="./assets/icons/globe.svg" /></a> &nbsp; 
+  <a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code.svg" /></a> &nbsp; <a href="https://github.com/prashanthr"><img src="./assets/icons/github.svg" /></a> &nbsp; <a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin.svg" /></a>&nbsp; <a href="https://dev.to/prashanthr"><img src="./assets/icons/archive.svg" /></a>
+</div>
 
 <details>
   <summary>Stats for nerds</summary>
