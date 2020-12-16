@@ -1,10 +1,10 @@
-## Hi, I'm Prashanth 👋
+# Hi, I'm Prashanth 👋
 
 ---
 
-### I'm an experienced full stack developer with a passion for technology
+## I'm an experienced full stack developer with a passion for technology
 
-#### _Everything is fine_. **REALLY**.
+### _Everything is fine_. **REALLY**.
 
 ![this is fine](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
