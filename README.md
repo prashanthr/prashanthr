@@ -1,10 +1,10 @@
 ## Hi, I'm Prashanth 👋
 
-<span style='font-size: 18px;'>I'm an experienced <span style='text-decoration: underline'>full stack developer</span> with a passion for technology</span>
+<span style='font-size: 18px;'>I'm an experienced <span style='text-decoration: underline;'>full stack developer</span> with a passion for technology</span>
 
 ### _Everything is fine_. **REALLY**.
 
-!![](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
+![this is fine](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
 
 
 Connect with me on all the platforms:
