@@ -11,14 +11,14 @@ I'm an experienced `full stack developer` with a passion for technology
 
 _Connect with me on all the platforms_:
 
-<a href="https://prashanthr.me"><img src="./assets/icons/globe-pink.svg" /></a> &nbsp; 
-<a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code-pink.svg" /></a> &nbsp; 
-<a href="https://github.com/prashanthr"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
-<a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin-pink.svg" /></a>&nbsp; 
-<a href="https://dev.to/prashanthr"><img src="./assets/icons/archive-pink.svg" /></a>
+<a href="https://prashanthr.me" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/globe-pink.svg" /></a> &nbsp; 
+<a href="https://prashanthr.me/portfolio" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/code-pink.svg" /></a> &nbsp; 
+<a href="https://github.com/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
+<a href="https://www.linkedin.com/in/prashanthrajaram" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/linkedin-pink.svg" /></a>&nbsp; 
+<a href="https://dev.to/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/archive-pink.svg" /></a>
 
 <details>
-  <summary>Stats for nerds</summary>
+  <summary>Stats for nerds (Probably not accurate)</summary>
   <br>
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthr&&count_private=true&show_icons=true&theme=dracula&hide_border=true&layout=compact&hide=all" />
