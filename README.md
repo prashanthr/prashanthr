@@ -2,7 +2,7 @@
 
 ---
 
-I'm an experienced ```diff +full stack developer``` with a passion for technology
+### I'm an experienced `full stack developer` with a passion for technology
 
 ## _Everything is fine_. **REALLY**.
 
