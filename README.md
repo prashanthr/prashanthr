@@ -13,7 +13,7 @@ _Connect with me on all the platforms_:
 
 <a href="https://prashanthr.me"><img src="./assets/icons/globe.svg" /></a> &nbsp; 
 <a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code.svg" /></a> &nbsp; 
-<a href="https://github.com/prashanthr"><img src="./assets/icons/github.svg" /></a> &nbsp; 
+<a href="https://github.com/prashanthr"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
 <a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin.svg" /></a>&nbsp; 
 <a href="https://dev.to/prashanthr"><img src="./assets/icons/archive.svg" /></a>
 
