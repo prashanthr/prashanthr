@@ -1,10 +1,10 @@
 ## Hi, I'm Prashanth 👋
 
----
-
 I'm an experienced **full stack developer** with a passion for technology.
 
 I build _cool_ and _useful_ apps. I also know how to design _scalable distributed systems_.
+
+---
 
 ### _Everything is fine_. **REALLY**.
 
