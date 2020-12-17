@@ -6,7 +6,8 @@ I'm an experienced `full stack developer` with a passion for technology
 
 ### _Everything is fine_. **REALLY**.
 
-![this is fine](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
+![this is fine](./assets/gif/this-is-fine.gif)
+<!-- https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif -->
 
 
 _Connect with me on all the platforms_:
