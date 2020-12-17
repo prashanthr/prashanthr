@@ -2,7 +2,7 @@
 
 ---
 
-<div style='color:blue;'>I'm an experienced full stack developer with a passion for technology</div>
+<div color='green'>I'm an experienced full stack developer with a passion for technology</div>
 
 ## _Everything is fine_. **REALLY**.
 
