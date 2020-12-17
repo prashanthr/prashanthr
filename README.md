@@ -11,11 +11,11 @@ I'm an experienced `full stack developer` with a passion for technology
 
 _Connect with me on all the platforms_:
 
-<a href="https://prashanthr.me"><img src="./assets/icons/globe.svg" /></a> &nbsp; 
-<a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code.svg" /></a> &nbsp; 
-<a href="https://github.com/prashanthr"><img src="./assets/icons/github.svg" /></a> &nbsp; 
-<a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin.svg" /></a>&nbsp; 
-<a href="https://dev.to/prashanthr"><img src="./assets/icons/archive.svg" /></a>
+<a href="https://prashanthr.me"><img src="./assets/icons/globe-pink.svg" /></a> &nbsp; 
+<a href="https://prashanthr.me/portfolio"><img src="./assets/icons/code-pink.svg" /></a> &nbsp; 
+<a href="https://github.com/prashanthr"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
+<a href="https://www.linkedin.com/in/prashanthrajaram"><img src="./assets/icons/linkedin-pink.svg" /></a>&nbsp; 
+<a href="https://dev.to/prashanthr"><img src="./assets/icons/archive-pink.svg" /></a>
 
 <details>
   <summary>Stats for nerds</summary>
