@@ -15,7 +15,8 @@ _Connect with me on all the platforms_:
 <a href="https://prashanthr.me/portfolio" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/code-pink.svg" /></a> &nbsp; 
 <a href="https://github.com/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
 <a href="https://www.linkedin.com/in/prashanthrajaram" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/linkedin-pink.svg" /></a>&nbsp; 
-<a href="https://dev.to/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/archive-pink.svg" /></a>
+<a href="https://dev.to/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/archive-pink.svg" /></a>&nbsp;
+<a href="https://www.buymeacoffee.com/TGuwXOA" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/coffee-pink.svg" /></a>
 
 <details>
   <summary>Stats for nerds (Probably not accurate)</summary>
