@@ -13,7 +13,7 @@ I build _cool_ and _useful_ apps. I also know how to design _scalable distribute
 
 
 _Connect with me on all the platforms_:
-
+<!-- Icons from https://feathericons.com/ -->
 <a href="https://prashanthr.me" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/globe-pink.svg" /></a> &nbsp; 
 <a href="https://prashanthr.me/portfolio" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/code-pink.svg" /></a> &nbsp; 
 <a href="https://github.com/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/github-pink.svg" /></a> &nbsp; 
