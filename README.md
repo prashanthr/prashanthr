@@ -1,4 +1,4 @@
-## Hey there, I'm Prashanth 👋
+## Hey there! I'm Prashanth 👋
 
 I'm an experienced **full stack developer** with a passion for technology.
 
