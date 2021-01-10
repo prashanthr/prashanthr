@@ -6,8 +6,6 @@ I build _cool_ and _useful_ apps. I also know how to design _scalable distribute
 
 ---
 
-### _Everything is fine_. **REALLY**.
-
 ![this is fine](./assets/gif/this-is-fine.gif)
 <!-- https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif -->
 
