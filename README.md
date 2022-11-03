@@ -33,6 +33,9 @@ _Connect with me on all the platforms_:
   </a>
 </details>
 
+#### Badges
+[![@geekbyte's Holopin board](https://holopin.me/geekbyte)](https://holopin.io/@geekbyte)
+
 ---
 
 <!--
