@@ -1,8 +1,7 @@
-## Hey there! I'm Prashanth 👋
+# Hey there! I'm Prashanth 👋
 
-I'm an experienced **full stack developer** with a passion for technology.
-
-I build _cool_ and _useful_ apps. I also know how to design _scalable distributed systems_.
+I'm a seasoned software engineer with a strong passion for technology.<br />
+I build cool and useful apps. I also know how to design systems for scale.
 
 ---
 
@@ -19,6 +18,7 @@ _Connect with me on all the platforms_:
 <a href="https://dev.to/prashanthr" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/archive-pink.svg" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/TGuwXOA" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/coffee-pink.svg" /></a>
 
+<!--
 <details>
   <summary>Stats for nerds (Probably not accurate)</summary>
   <br>
@@ -32,9 +32,12 @@ _Connect with me on all the platforms_:
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thelastcoder&theme=dracula&langs_count=10&layout=compact&hide_border=true" />
   </a>
 </details>
+-->
 
+<!--
 #### Badges
 [![@geekbyte's Holopin board](https://holopin.me/geekbyte)](https://holopin.io/@geekbyte)
+-->
 
 ---
 
